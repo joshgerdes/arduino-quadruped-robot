@@ -1,0 +1,1 @@
+GorillaBot the 3D Printed Arduino Autonomous Sprint Quadruped Robot by SebastianCoddington on Thingiverse: https://www.thingiverse.com/thing:4577379
