@@ -2,6 +2,14 @@
 
 An arduino power quadruped robot sprinter/walker based on the designs by Sebastian Coddington. This version uses a different codebase and has some modifications to the board and battery mounts.
 
+<div style="display: flex;">
+<img src="https://github.com/joshgerdes/arduino-quadruped-robot/blob/main/resources/images/robot.jpg?raw=true" height="200px" style="margin: 20px;" alt="Robot" />
+
+<img src="https://github.com/joshgerdes/arduino-quadruped-robot/blob/main/resources/images/robot-top.jpg?raw=true" height="200px" style="margin: 20px;" alt="Robot Top View" />
+
+<img src="https://github.com/joshgerdes/arduino-quadruped-robot/blob/main/resources/images/robot-side.jpg?raw=true" height="200px" style="margin: 20px;" alt="Robot Side View" />
+</div>
+
 ## Build Instructions
 
 For the original robot, more detailed build and construction information can be found at: https://www.instructables.com/id/GorillaBot-the-3D-Printed-Arduino-Autonomous-Sprin/
